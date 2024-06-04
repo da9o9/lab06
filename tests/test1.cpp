@@ -1,6 +1,6 @@
 #include <print.hpp>
 
-#include <gtest/gtest.h>
+#include "gtest/gtest.h"
 
 TEST(Print, InFileStream)
 {
